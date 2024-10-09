@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on powerbi and tableau and any other data visualization tool
 - 🤔 I’m looking for help with 
 - 💬 Ask me about python,R,powerbi and sql
-- 📫 How to reach me: ...
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am a sushi fan currently :p 
 -->

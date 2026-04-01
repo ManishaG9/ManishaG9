@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Manisha. Welcome to my github profile,I'm a Toronto-based data analyst with a background in financial operations, client success, and business intelligence. I bring a rare combination of ERP/systems expertise and analytical skills, from reconciling multi-million dollar vendor workflows to building dashboards that surface actionable insights.-- If it can be measured, it can be improved. If it can't be measured, I'll find a way.-- ....</h2>
 
 ###
 

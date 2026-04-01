@@ -10,10 +10,22 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- Power BI -->
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30" alt="power bi logo" />
+<img width="12" />
+
+<!-- Tableau -->
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30" alt="tableau logo" />
+<img width="12" />
+
+<!-- Excel -->
+<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="30" alt="excel logo" />
+<img width="12" />
+
+<!-- Miro -->
+<img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
+```
+
 
 ###
 

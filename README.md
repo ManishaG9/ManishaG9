@@ -12,35 +12,14 @@
 
 <!-- Power BI -->
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30" alt="power bi logo" />
-<img width="12" />
-<!-- Tableau -->
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30" alt="tableau logo" />
-<img width="12" />
-<!-- Excel -->
-<img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="30" alt="excel logo" />
-<img width="12" />
-<!-- Miro -->
-<img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
-<!-- Python -->
-<img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
-<!-- R -->
-<img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="30" alt="r logo" />
-<img width="12" />
-<!-- Figma -->
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30" alt="figma logo" />
-<img width="12" />
-<!-- Lucidchart -->
-<img src="https://img.shields.io/badge/Lucidchart-F96B13?style=flat&logo=lucid&logoColor=white" height="30" alt="lucidchart logo" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30" alt="sql logo" />
-
-
-
-
-###
-
+<img width="12" /> <!-- Tableau --> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30" alt="tableau logo" />
+<img width="12" /> <!-- Excel --> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="30" alt="excel logo" /> <img width="12" />
+<!-- Miro --> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
+<!-- Python --> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
+<!-- R --> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="30" alt="r logo" />
+<img width="12" /> <!-- Figma --><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30" alt="figma logo" />
+<img width="12" /> <!-- Lucidchart --> <img src="https://img.shields.io/badge/Lucidchart-F96B13?style=flat&logo=lucid&logoColor=white" height="30" alt="lucidchart logo" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30" alt="sql logo" />
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />

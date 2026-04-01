@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Manisha  and I'm a Data / Business Analyst, based in Toronto </p>
+<p align="left"> My name is Manisha  and I'm a Data / Business Analyst, based in Toronto </p>
 
 ###
 
@@ -14,7 +14,7 @@
 🎶 Music is my background process - always running
 📚 Reading anything that makes me think differently
 🌍 Passionate about community - you'll find me volunteering when I'm not debugging
-🏙️ Exploring Toronto one neighbourhood (and food spot) at a time
+🏙️ Exploring Toronto one neighbourhood (and food spot) at a time.
  I love Pizza 🍕 :)) </p>
 
 ###

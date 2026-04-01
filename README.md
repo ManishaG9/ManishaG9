@@ -15,7 +15,7 @@
 📚 Reading anything that makes me think differently
 🌍 Passionate about community - you'll find me volunteering when I'm not debugging
 🏙️ Exploring Toronto one neighbourhood (and food spot) at a time
-🍕 I love Pizza :)) </p>
+ I love Pizza 🍕 :)) </p>
 
 ###
 

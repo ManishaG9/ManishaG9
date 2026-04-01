@@ -1,4 +1,12 @@
-<h2 align="left">Hi 👋! My name is Manisha. Welcome to my github profile,I'm a Toronto-based data analyst with a background in financial operations, client success, and business intelligence. I bring a rare combination of ERP/systems expertise and analytical skills, from reconciling multi-million dollar vendor workflows to building dashboards that surface actionable insights.-- If it can be measured, it can be improved. If it can't be measured, I'll find a way.-- ....</h2>
+<h2 align="left">Hi 👋! My name is Manisha. Welcome to my github profile,I'm a Toronto-based data analyst with a background in financial operations, client success, and business intelligence. I bring a rare combination of ERP/systems expertise and analytical skills, from reconciling multi-million dollar vendor workflows to building dashboards that surface actionable insights.-- If it can be measured, it can be improved. If it can't be measured, I'll find a way
+🌻 When I'm Not Wrangling Data...
+🎶 Music is my background process — always running
+📚 Reading anything that makes me think differently
+🌍 Passionate about community — you'll find me volunteering when I'm not debugging
+🏙️ Exploring Toronto one neighbourhood (and food spot) at a time
+🍕 I love pizza 
+
+  .-- ....</h2>
 
 ###
 

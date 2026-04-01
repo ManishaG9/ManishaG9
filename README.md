@@ -10,17 +10,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning that there's always one more thing to learn, currently focused on machine learning in Python, advanced DAX in Power BI, and making SQL queries actually readable <br>🎯 Goals:Turn data into decisions, land my dream analytics role in Toronto, and eventually have a dashboard for everything — including my morning routine <br> 🎲 Fun fact: 
+<p align="left">✨ Creating bugs since 2020 <br>📚 I'm currently learning that there's always one more thing to learn, currently focused on machine learning in Python, advanced DAX in Power BI, and making SQL queries actually readable <br>🎯 Goals:Turn data into decisions, land my dream analytics role in Toronto, and eventually have a dashboard for everything — including my morning routine <br> 🎲 Fun fact: 
 🎶 Music is my background process - always running
 📚 Reading anything that makes me think differently
 🌍 Passionate about community - you'll find me volunteering when I'm not debugging
 🏙️ Exploring Toronto one neighbourhood (and food spot) at a time
-🍕 I love Pizza
-  ...</p>
+🍕 I love Pizza :)) </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with & tools that i am proficient in </h2>
 
 ###
 

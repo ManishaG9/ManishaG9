@@ -1,38 +1,47 @@
-<h2 align="left">Hi 👋! My name is Manisha. Welcome to my github profile,I'm a Toronto-based data analyst with a background in financial operations, client success, and business intelligence. I bring a rare combination of ERP/systems expertise and analytical skills, from reconciling multi-million dollar vendor workflows to building dashboards that surface actionable insights.-- If it can be measured, it can be improved. If it can't be measured, I'll find a way
-🌻 When I'm Not Wrangling Data...
-🎶 Music is my background process — always running
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Manisha  and I'm a Data / Business Analyst, based in Toronto </p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020...<br>📚 I'm currently learning that there's always one more thing to learn, currently focused on machine learning in Python, advanced DAX in Power BI, and making SQL queries actually readable <br>🎯 Goals:Turn data into decisions, land my dream analytics role in Toronto, and eventually have a dashboard for everything — including my morning routine <br> 🎲 Fun fact: 
+🎶 Music is my background process - always running
 📚 Reading anything that makes me think differently
-🌍 Passionate about community — you'll find me volunteering when I'm not debugging
+🌍 Passionate about community - you'll find me volunteering when I'm not debugging
 🏙️ Exploring Toronto one neighbourhood (and food spot) at a time
-🍕 I love pizza 
-
-  .-- ....</h2>
+🍕 I love Pizza
+  ...</p>
 
 ###
 
-<!-- Power BI -->
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="30" alt="power bi logo" />
-<img width="12" /> <!-- Tableau --> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="30" alt="tableau logo" />
-<img width="12" /> <!-- Excel --> <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="30" alt="excel logo" /> <img width="12" />
-<!-- Miro --> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
-<!-- Python --> <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="30" alt="miro logo" />
-<!-- R --> <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="30" alt="r logo" />
-<img width="12" /> <!-- Figma --><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="30" alt="figma logo" />
-<img width="12" /> <!-- Lucidchart --> <img src="https://img.shields.io/badge/Lucidchart-F96B13?style=flat&logo=lucid&logoColor=white" height="30" alt="lucidchart logo" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30" alt="sql logo" />
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">I code with</h2>
+
+###
+
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white" height="40" alt="r logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" height="40" alt="sql logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black" height="40" alt="power bi logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" height="40" alt="tableau logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" height="40" alt="excel logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=flat&logo=miro&logoColor=yellow" height="40" alt="miro logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Lucidchart-F96B13?style=flat&logo=lucid&logoColor=white" height="40" alt="lucidchart logo" />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
